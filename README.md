@@ -36,5 +36,3 @@ Limitations: The current model uses CountVectorizer which only counts word occur
 Impact: This logic can be scaled to analyze thousands of customer reviews or Twitter mentions to provide instant feedback on brand health.
 
 👤 Author Nitya Jain
-
-Submission Date: March 31, 2026
